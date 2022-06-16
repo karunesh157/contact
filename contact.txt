@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+
+<html>
+    
+<head>
+        
+    <title>Google contact App</title> 
+        
+   <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    
+</head>
+    
+<body>
+      
+      
+
+      <div id="app">
+          
+        <div id="header">
+              
+         <div id="cercle">
+                  
+      <div>
+                      
+        <p>M</p>
+                  
+      </div>
+              
+      </div>
+          
+      </div>
+          
+          
+   
+        <div id="corps">
+          
+              
+    <div id="nom">
+                  
+      <p>Mummy</p>
+              
+</div>
+              
+              
+
+<div id="icones">
+                  
+       <span class="blue"><i class="material-icons">call</i><br />Appel</span>
+                  
+       <span class="blue"><i class="material-icons">message</i><br />SMS</span>
+                  
+       <span><i class="material-icons">videocam</i><br />Vidéo</span>
+                  
+       <span><i class="material-icons">email</i><br />E-mail</span>
+              
+</div>
+              
+              
+  <div id="numero">
+                  
+    <span id="tel">
+                    
+<i class="material-icons">call</i>
+                  
+</span>
+                  
+<span id="message">
+                      
+<i class="material-icons">chat</i>
+                  
+</span>
+                   
+<p>95 52 02 89 79</p>
+                  
+<p id="lib">Mobile</p>
+              
+</div>
+          
+</div>
+          
+      
+</div>
+    
+        
+    
+</body>
+
+</html>
